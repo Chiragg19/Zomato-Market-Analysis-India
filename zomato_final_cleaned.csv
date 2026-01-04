@@ -1,0 +1,454 @@
+name,online_order,rate,votes,location,cuisines,approx_cost(for two people)
+Restaurant_0,Yes,3.4,1669,Jayanagar,North Indian,400.0
+Restaurant_1,No,3.3,878,Bannerghatta Road,Biryani,2000.0
+Restaurant_2,Yes,3.8,78,Electronic City,Beverages,1000.0
+Restaurant_3,Yes,4.2,1951,Koramangala 5th Block,Chinese,300.0
+Restaurant_4,Yes,2.7,946,Koramangala 5th Block,Continental,800.0
+Restaurant_5,No,4.9,458,JP Nagar,Desserts,1500.0
+Restaurant_6,Yes,3.7,569,Bannerghatta Road,Desserts,800.0
+Restaurant_7,Yes,4.3,1561,BTM,North Indian,800.0
+Restaurant_8,Yes,4.2,1505,Bannerghatta Road,Mughlai,2000.0
+Restaurant_9,No,3.2,1453,Bannerghatta Road,South Indian,500.0
+Restaurant_10,Yes,4.4,737,Bannerghatta Road,Beverages,800.0
+Restaurant_11,Yes,4.7,1308,Jayanagar,Beverages,400.0
+Restaurant_12,Yes,3.7,515,Bannerghatta Road,Biryani,500.0
+Restaurant_13,Yes,4.1,1122,Indiranagar,Biryani,200.0
+Restaurant_14,No,4.4,396,Koramangala 5th Block,Desserts,800.0
+Restaurant_15,Yes,3.3,1512,JP Nagar,Desserts,800.0
+Restaurant_16,No,2.7,38,Indiranagar,Cafe,200.0
+Restaurant_17,No,2.6,1294,JP Nagar,Cafe,800.0
+Restaurant_18,No,3.8,886,HSR,Mughlai,200.0
+Restaurant_19,Yes,3.9,796,JP Nagar,Cafe,500.0
+Restaurant_22,No,3.4,883,Bannerghatta Road,Beverages,300.0
+Restaurant_23,No,3.8,1823,Whitefield,Fast Food,2000.0
+Restaurant_24,No,3.0,1153,HSR,South Indian,2000.0
+Restaurant_25,No,2.7,1710,BTM,Chinese,200.0
+Restaurant_27,No,3.8,1107,JP Nagar,Biryani,800.0
+Restaurant_28,No,4.2,1045,Whitefield,Cafe,1500.0
+Restaurant_29,No,3.7,1482,Bannerghatta Road,Beverages,1500.0
+Restaurant_30,Yes,4.4,1562,Jayanagar,North Indian,2000.0
+Restaurant_31,Yes,3.6,1730,BTM,Biryani,500.0
+Restaurant_34,No,4.5,747,Jayanagar,Chinese,1000.0
+Restaurant_35,Yes,3.5,1463,HSR,Desserts,1500.0
+Restaurant_36,No,2.9,1627,Bannerghatta Road,Desserts,1500.0
+Restaurant_37,Yes,3.8,988,BTM,Mughlai,200.0
+Restaurant_38,Yes,4.1,20,BTM,Beverages,400.0
+Restaurant_39,Yes,4.8,302,BTM,Biryani,300.0
+Restaurant_40,Yes,3.8,1999,HSR,Continental,500.0
+Restaurant_41,Yes,3.5,868,JP Nagar,Continental,800.0
+Restaurant_42,No,3.4,1978,Electronic City,Biryani,1000.0
+Restaurant_43,No,2.5,83,HSR,North Indian,2000.0
+Restaurant_44,No,2.6,1797,Marathahalli,Beverages,800.0
+Restaurant_46,No,4.2,1976,Koramangala 5th Block,North Indian,1000.0
+Restaurant_47,Yes,2.7,1476,Bannerghatta Road,Fast Food,500.0
+Restaurant_48,No,3.6,1410,HSR,Biryani,200.0
+Restaurant_49,No,3.5,1530,Jayanagar,Chinese,800.0
+Restaurant_50,Yes,4.0,1280,Electronic City,Continental,400.0
+Restaurant_51,No,2.6,569,Marathahalli,South Indian,500.0
+Restaurant_52,Yes,4.0,1915,Koramangala 5th Block,Mughlai,1500.0
+Restaurant_53,No,4.6,933,JP Nagar,Continental,1500.0
+Restaurant_54,Yes,2.9,1550,Jayanagar,Beverages,500.0
+Restaurant_56,No,2.6,1980,Bannerghatta Road,South Indian,500.0
+Restaurant_57,Yes,4.8,1186,Jayanagar,Mughlai,1000.0
+Restaurant_58,Yes,3.4,1855,Koramangala 5th Block,Mughlai,500.0
+Restaurant_59,Yes,3.6,1008,Jayanagar,Fast Food,800.0
+Restaurant_60,Yes,4.8,792,Indiranagar,Fast Food,400.0
+Restaurant_61,Yes,4.8,791,Whitefield,Cafe,1000.0
+Restaurant_62,Yes,3.0,1547,JP Nagar,Continental,500.0
+Restaurant_64,Yes,2.5,1294,Jayanagar,Continental,2000.0
+Restaurant_66,No,2.7,207,Whitefield,North Indian,400.0
+Restaurant_67,Yes,4.5,1562,Jayanagar,Mughlai,1500.0
+Restaurant_69,No,3.2,1083,Indiranagar,Beverages,200.0
+Restaurant_70,No,4.2,429,HSR,Mughlai,2000.0
+Restaurant_71,No,4.6,984,Indiranagar,Fast Food,1500.0
+Restaurant_72,Yes,4.4,1680,Jayanagar,Chinese,1000.0
+Restaurant_73,No,2.9,1628,JP Nagar,Desserts,1000.0
+Restaurant_74,Yes,4.4,1332,HSR,Cafe,1000.0
+Restaurant_75,No,3.5,519,Koramangala 5th Block,Biryani,200.0
+Restaurant_76,No,4.4,590,Indiranagar,Chinese,300.0
+Restaurant_77,No,4.7,1050,Jayanagar,Beverages,200.0
+Restaurant_78,Yes,3.5,1709,Indiranagar,Continental,800.0
+Restaurant_79,No,4.3,1585,HSR,Fast Food,500.0
+Restaurant_80,Yes,4.7,198,Marathahalli,Fast Food,1000.0
+Restaurant_81,No,4.5,386,Electronic City,Fast Food,300.0
+Restaurant_82,Yes,4.6,348,Indiranagar,Continental,400.0
+Restaurant_83,No,2.5,959,Koramangala 5th Block,Biryani,2000.0
+Restaurant_84,Yes,2.7,1963,Koramangala 5th Block,Cafe,400.0
+Restaurant_85,Yes,4.8,692,BTM,Chinese,500.0
+Restaurant_86,No,3.9,1559,Indiranagar,Continental,300.0
+Restaurant_87,Yes,3.6,1851,Electronic City,Beverages,200.0
+Restaurant_88,No,3.3,377,Bannerghatta Road,Cafe,200.0
+Restaurant_89,No,4.3,898,Whitefield,Beverages,800.0
+Restaurant_90,No,4.4,915,Electronic City,Cafe,800.0
+Restaurant_92,No,2.6,526,Whitefield,Desserts,400.0
+Restaurant_93,No,3.6,1176,Marathahalli,Beverages,2000.0
+Restaurant_94,No,3.3,733,BTM,Continental,1000.0
+Restaurant_95,No,2.8,205,Electronic City,Cafe,400.0
+Restaurant_96,No,4.0,454,Electronic City,Fast Food,2000.0
+Restaurant_97,No,2.7,1296,Marathahalli,Mughlai,800.0
+Restaurant_98,No,2.7,1917,Indiranagar,Fast Food,500.0
+Restaurant_99,Yes,4.2,1259,Indiranagar,North Indian,2000.0
+Restaurant_102,No,3.4,520,Whitefield,Fast Food,800.0
+Restaurant_103,No,4.5,1701,JP Nagar,Chinese,1000.0
+Restaurant_104,No,4.9,1967,BTM,Biryani,200.0
+Restaurant_105,No,3.4,1016,Marathahalli,Beverages,1000.0
+Restaurant_107,No,3.8,1854,Whitefield,Desserts,1000.0
+Restaurant_108,No,4.7,725,JP Nagar,Fast Food,2000.0
+Restaurant_109,Yes,3.7,1013,JP Nagar,Fast Food,400.0
+Restaurant_111,Yes,2.6,116,JP Nagar,Biryani,500.0
+Restaurant_112,No,2.8,385,Bannerghatta Road,South Indian,200.0
+Restaurant_113,No,4.3,1367,Electronic City,South Indian,300.0
+Restaurant_114,Yes,4.8,583,Bannerghatta Road,Chinese,1500.0
+Restaurant_115,No,3.2,394,Electronic City,Chinese,800.0
+Restaurant_116,Yes,3.0,1087,Marathahalli,North Indian,800.0
+Restaurant_117,No,2.5,1740,Electronic City,Chinese,200.0
+Restaurant_118,No,2.6,720,Bannerghatta Road,Cafe,2000.0
+Restaurant_119,Yes,3.8,71,Electronic City,Biryani,1000.0
+Restaurant_120,No,2.7,1812,Marathahalli,Continental,300.0
+Restaurant_121,Yes,4.8,273,Marathahalli,Cafe,400.0
+Restaurant_122,No,4.0,1343,BTM,Beverages,1000.0
+Restaurant_123,Yes,3.6,337,Electronic City,Fast Food,1000.0
+Restaurant_124,Yes,3.9,1389,Jayanagar,Chinese,200.0
+Restaurant_125,No,2.6,1518,Indiranagar,Fast Food,200.0
+Restaurant_126,No,4.8,606,Koramangala 5th Block,Desserts,2000.0
+Restaurant_127,Yes,3.6,165,Marathahalli,North Indian,800.0
+Restaurant_128,No,3.2,1567,HSR,Desserts,200.0
+Restaurant_129,No,3.6,10,Indiranagar,North Indian,200.0
+Restaurant_130,No,3.9,1324,Whitefield,South Indian,200.0
+Restaurant_132,Yes,4.9,800,Bannerghatta Road,North Indian,800.0
+Restaurant_133,Yes,3.8,101,Koramangala 5th Block,Mughlai,400.0
+Restaurant_134,Yes,4.5,1448,HSR,Cafe,400.0
+Restaurant_135,Yes,2.9,1415,Indiranagar,North Indian,1500.0
+Restaurant_136,Yes,4.5,778,Electronic City,North Indian,1500.0
+Restaurant_137,Yes,4.2,213,BTM,Cafe,200.0
+Restaurant_138,Yes,3.5,1714,Whitefield,Fast Food,1500.0
+Restaurant_139,Yes,4.6,1111,Koramangala 5th Block,Fast Food,800.0
+Restaurant_142,No,4.4,587,HSR,Mughlai,1000.0
+Restaurant_143,No,2.9,888,Koramangala 5th Block,Continental,400.0
+Restaurant_144,No,3.4,1069,BTM,Beverages,400.0
+Restaurant_145,Yes,4.5,1695,Whitefield,Mughlai,800.0
+Restaurant_146,Yes,3.6,1486,Jayanagar,Fast Food,1500.0
+Restaurant_147,Yes,3.2,591,BTM,Continental,1000.0
+Restaurant_149,No,4.5,1109,Jayanagar,Chinese,200.0
+Restaurant_150,Yes,4.9,91,HSR,North Indian,2000.0
+Restaurant_151,Yes,4.3,1683,Whitefield,Cafe,500.0
+Restaurant_152,Yes,4.5,672,Electronic City,Cafe,400.0
+Restaurant_153,Yes,3.6,713,Bannerghatta Road,North Indian,500.0
+Restaurant_154,Yes,4.8,935,Bannerghatta Road,Chinese,2000.0
+Restaurant_155,No,3.0,1951,Bannerghatta Road,Beverages,2000.0
+Restaurant_156,Yes,4.0,241,Koramangala 5th Block,Chinese,800.0
+Restaurant_157,No,2.8,1888,HSR,Continental,800.0
+Restaurant_158,Yes,3.7,1,Whitefield,Chinese,800.0
+Restaurant_159,No,3.7,224,Jayanagar,Continental,500.0
+Restaurant_160,Yes,3.8,800,Koramangala 5th Block,Chinese,800.0
+Restaurant_161,Yes,4.6,1768,HSR,Beverages,2000.0
+Restaurant_162,No,2.8,1996,Electronic City,Beverages,200.0
+Restaurant_164,No,4.0,1952,Whitefield,North Indian,300.0
+Restaurant_165,Yes,3.0,588,Bannerghatta Road,Beverages,1500.0
+Restaurant_166,No,2.5,115,BTM,Continental,500.0
+Restaurant_167,Yes,3.9,1689,Whitefield,Beverages,300.0
+Restaurant_168,Yes,3.5,917,Marathahalli,Fast Food,800.0
+Restaurant_169,No,3.3,1126,HSR,Cafe,2000.0
+Restaurant_170,No,4.4,193,Indiranagar,Continental,200.0
+Restaurant_171,Yes,4.0,1189,Electronic City,Fast Food,400.0
+Restaurant_172,Yes,4.8,870,JP Nagar,Desserts,1000.0
+Restaurant_173,No,4.7,89,Electronic City,Desserts,1500.0
+Restaurant_174,No,3.1,1709,Whitefield,South Indian,1000.0
+Restaurant_175,No,4.9,121,Indiranagar,Chinese,800.0
+Restaurant_176,Yes,3.3,142,Marathahalli,North Indian,1500.0
+Restaurant_177,Yes,3.1,993,Jayanagar,Biryani,1500.0
+Restaurant_179,Yes,2.8,886,Indiranagar,Fast Food,1500.0
+Restaurant_180,Yes,2.8,427,HSR,Cafe,500.0
+Restaurant_181,Yes,2.9,1328,Bannerghatta Road,Mughlai,300.0
+Restaurant_182,No,4.7,1895,Marathahalli,Cafe,300.0
+Restaurant_183,Yes,4.1,1994,BTM,Mughlai,300.0
+Restaurant_184,Yes,3.0,316,JP Nagar,Fast Food,500.0
+Restaurant_186,No,3.2,634,Whitefield,Mughlai,200.0
+Restaurant_187,Yes,2.7,1925,Indiranagar,Fast Food,1500.0
+Restaurant_188,Yes,3.6,8,BTM,Beverages,500.0
+Restaurant_189,No,3.4,773,Koramangala 5th Block,Biryani,300.0
+Restaurant_190,Yes,4.2,1096,Jayanagar,Continental,800.0
+Restaurant_192,Yes,4.0,222,Marathahalli,Desserts,1500.0
+Restaurant_194,Yes,4.7,552,Marathahalli,Desserts,2000.0
+Restaurant_196,No,4.4,715,HSR,Continental,200.0
+Restaurant_197,No,2.9,1287,JP Nagar,Cafe,200.0
+Restaurant_198,Yes,3.4,1863,Electronic City,Continental,500.0
+Restaurant_199,Yes,4.0,1713,HSR,Mughlai,300.0
+Restaurant_200,Yes,3.6,1883,JP Nagar,Cafe,400.0
+Restaurant_201,No,2.6,1341,JP Nagar,Mughlai,1500.0
+Restaurant_202,Yes,4.2,1107,Koramangala 5th Block,Fast Food,200.0
+Restaurant_203,Yes,3.7,1341,Whitefield,Biryani,1500.0
+Restaurant_204,No,2.8,110,Koramangala 5th Block,Fast Food,300.0
+Restaurant_205,Yes,3.8,250,JP Nagar,South Indian,1500.0
+Restaurant_206,No,3.1,382,BTM,Continental,800.0
+Restaurant_207,No,2.5,6,HSR,Mughlai,200.0
+Restaurant_208,No,3.0,458,Koramangala 5th Block,Beverages,300.0
+Restaurant_209,Yes,2.8,1107,Whitefield,Fast Food,300.0
+Restaurant_210,Yes,3.9,207,Indiranagar,South Indian,400.0
+Restaurant_211,Yes,4.4,899,Marathahalli,North Indian,400.0
+Restaurant_212,Yes,2.7,1413,JP Nagar,Desserts,800.0
+Restaurant_213,Yes,3.9,1337,Electronic City,Cafe,300.0
+Restaurant_214,Yes,3.5,21,Indiranagar,South Indian,1000.0
+Restaurant_215,Yes,3.2,409,Jayanagar,Biryani,300.0
+Restaurant_216,No,4.1,894,Bannerghatta Road,Fast Food,400.0
+Restaurant_217,Yes,3.4,514,Whitefield,Biryani,1000.0
+Restaurant_218,No,4.0,1150,Electronic City,Desserts,200.0
+Restaurant_219,Yes,2.7,808,Bannerghatta Road,Beverages,200.0
+Restaurant_220,Yes,3.1,1723,Whitefield,Continental,1500.0
+Restaurant_221,Yes,2.9,873,BTM,Continental,500.0
+Restaurant_222,No,2.9,13,Marathahalli,Biryani,400.0
+Restaurant_223,No,2.7,970,Indiranagar,Mughlai,500.0
+Restaurant_224,No,3.5,977,HSR,Beverages,1000.0
+Restaurant_225,No,2.8,1013,Whitefield,Continental,400.0
+Restaurant_226,Yes,4.8,1035,HSR,Beverages,800.0
+Restaurant_227,No,4.5,86,Marathahalli,South Indian,300.0
+Restaurant_228,Yes,2.9,1547,JP Nagar,Beverages,800.0
+Restaurant_229,Yes,4.7,908,Jayanagar,Chinese,1000.0
+Restaurant_230,No,3.9,1560,Indiranagar,Desserts,400.0
+Restaurant_231,No,4.3,1324,Marathahalli,Continental,2000.0
+Restaurant_232,No,3.3,1266,Marathahalli,Beverages,1000.0
+Restaurant_233,No,3.7,121,BTM,Biryani,2000.0
+Restaurant_234,No,2.8,1170,Bannerghatta Road,North Indian,300.0
+Restaurant_235,No,3.2,1590,Jayanagar,Chinese,200.0
+Restaurant_236,No,2.9,749,Indiranagar,Chinese,200.0
+Restaurant_237,No,3.8,1379,JP Nagar,Mughlai,1000.0
+Restaurant_239,No,2.8,1927,Koramangala 5th Block,Mughlai,400.0
+Restaurant_241,Yes,3.3,1654,Whitefield,North Indian,200.0
+Restaurant_242,No,3.1,308,BTM,South Indian,1500.0
+Restaurant_243,Yes,4.3,694,Jayanagar,Beverages,800.0
+Restaurant_244,Yes,3.6,287,JP Nagar,Fast Food,1500.0
+Restaurant_245,No,3.3,306,Indiranagar,Continental,300.0
+Restaurant_246,Yes,4.5,1835,Koramangala 5th Block,Mughlai,800.0
+Restaurant_247,Yes,2.8,1617,Indiranagar,Desserts,800.0
+Restaurant_248,Yes,4.8,1989,BTM,Cafe,1000.0
+Restaurant_249,Yes,2.7,913,Whitefield,Desserts,200.0
+Restaurant_250,No,3.9,1746,Koramangala 5th Block,North Indian,1500.0
+Restaurant_251,Yes,2.8,661,Koramangala 5th Block,North Indian,1500.0
+Restaurant_252,No,3.0,548,Bannerghatta Road,Biryani,200.0
+Restaurant_253,Yes,2.9,1375,Jayanagar,South Indian,1500.0
+Restaurant_254,Yes,4.1,311,Koramangala 5th Block,Continental,2000.0
+Restaurant_255,Yes,3.4,872,Bannerghatta Road,Mughlai,200.0
+Restaurant_256,Yes,3.4,1082,Bannerghatta Road,Desserts,1000.0
+Restaurant_257,No,3.6,1666,BTM,Cafe,500.0
+Restaurant_258,No,3.6,923,HSR,North Indian,800.0
+Restaurant_259,Yes,4.3,1737,Indiranagar,North Indian,1000.0
+Restaurant_260,Yes,3.1,754,Whitefield,South Indian,400.0
+Restaurant_261,No,3.4,34,Electronic City,Cafe,300.0
+Restaurant_262,Yes,4.7,444,Indiranagar,Cafe,500.0
+Restaurant_263,Yes,2.8,92,Koramangala 5th Block,South Indian,400.0
+Restaurant_264,Yes,4.0,1973,Whitefield,North Indian,800.0
+Restaurant_265,No,2.8,1982,JP Nagar,Continental,1500.0
+Restaurant_266,No,4.0,1230,HSR,Beverages,200.0
+Restaurant_267,No,4.6,352,JP Nagar,Beverages,800.0
+Restaurant_268,Yes,2.9,902,JP Nagar,South Indian,1000.0
+Restaurant_269,Yes,3.1,1355,Jayanagar,Cafe,300.0
+Restaurant_270,No,2.6,1840,Indiranagar,Mughlai,1000.0
+Restaurant_271,No,4.3,861,Electronic City,South Indian,500.0
+Restaurant_272,No,3.3,1748,BTM,Continental,500.0
+Restaurant_273,No,2.8,158,Electronic City,South Indian,300.0
+Restaurant_274,Yes,2.8,1977,JP Nagar,Chinese,2000.0
+Restaurant_275,No,4.4,956,Koramangala 5th Block,Desserts,400.0
+Restaurant_276,Yes,3.1,23,HSR,Cafe,400.0
+Restaurant_277,No,4.2,403,Marathahalli,Biryani,500.0
+Restaurant_278,Yes,4.2,804,Electronic City,Biryani,500.0
+Restaurant_279,No,3.1,515,JP Nagar,Cafe,1500.0
+Restaurant_280,No,2.9,731,HSR,Continental,200.0
+Restaurant_281,No,3.9,1387,Whitefield,Chinese,1500.0
+Restaurant_282,No,3.6,1405,Indiranagar,Chinese,1500.0
+Restaurant_283,Yes,2.9,531,Bannerghatta Road,North Indian,2000.0
+Restaurant_284,No,3.7,955,Jayanagar,Desserts,400.0
+Restaurant_285,Yes,2.5,151,HSR,Beverages,2000.0
+Restaurant_286,Yes,4.7,1585,Koramangala 5th Block,Fast Food,2000.0
+Restaurant_287,Yes,4.2,1712,Koramangala 5th Block,Continental,300.0
+Restaurant_288,Yes,4.2,946,HSR,Fast Food,400.0
+Restaurant_289,No,3.9,607,Koramangala 5th Block,Fast Food,200.0
+Restaurant_290,Yes,3.5,1640,Indiranagar,Cafe,1000.0
+Restaurant_291,Yes,4.7,419,Koramangala 5th Block,Biryani,500.0
+Restaurant_292,Yes,3.6,1273,Electronic City,Biryani,500.0
+Restaurant_293,No,4.9,1140,Bannerghatta Road,Beverages,200.0
+Restaurant_294,No,2.8,865,Koramangala 5th Block,Cafe,2000.0
+Restaurant_295,No,4.6,1535,Bannerghatta Road,Fast Food,1500.0
+Restaurant_296,No,3.9,1763,JP Nagar,Mughlai,300.0
+Restaurant_297,Yes,2.6,577,BTM,Biryani,2000.0
+Restaurant_298,Yes,4.4,334,Indiranagar,Continental,500.0
+Restaurant_300,Yes,3.5,931,JP Nagar,North Indian,1500.0
+Restaurant_301,Yes,4.7,1797,Indiranagar,South Indian,500.0
+Restaurant_302,Yes,3.3,294,HSR,Mughlai,800.0
+Restaurant_303,No,3.6,1961,HSR,Biryani,2000.0
+Restaurant_304,No,3.6,754,Bannerghatta Road,Chinese,200.0
+Restaurant_305,Yes,2.9,1394,JP Nagar,Biryani,200.0
+Restaurant_306,No,3.5,185,Bannerghatta Road,North Indian,1500.0
+Restaurant_307,No,3.4,1269,Jayanagar,Continental,500.0
+Restaurant_308,No,4.0,636,Koramangala 5th Block,Fast Food,400.0
+Restaurant_310,No,2.9,1666,Jayanagar,Cafe,300.0
+Restaurant_311,Yes,2.9,1260,Koramangala 5th Block,Desserts,500.0
+Restaurant_312,No,2.7,529,Indiranagar,Fast Food,300.0
+Restaurant_313,Yes,3.7,1575,Bannerghatta Road,Desserts,500.0
+Restaurant_314,Yes,2.7,20,Indiranagar,Mughlai,400.0
+Restaurant_315,No,3.0,910,Indiranagar,South Indian,400.0
+Restaurant_316,Yes,3.0,1760,Koramangala 5th Block,Chinese,1500.0
+Restaurant_317,Yes,2.6,866,JP Nagar,Beverages,1500.0
+Restaurant_318,Yes,3.9,793,Koramangala 5th Block,Chinese,400.0
+Restaurant_320,No,3.6,99,HSR,Continental,400.0
+Restaurant_321,Yes,3.6,751,HSR,Biryani,200.0
+Restaurant_322,No,3.8,477,Jayanagar,Biryani,200.0
+Restaurant_323,No,2.9,1622,HSR,Mughlai,1000.0
+Restaurant_324,No,4.8,1321,Koramangala 5th Block,Fast Food,2000.0
+Restaurant_325,No,3.1,939,Electronic City,Beverages,800.0
+Restaurant_326,Yes,3.5,525,Bannerghatta Road,Beverages,2000.0
+Restaurant_328,No,4.2,1,Koramangala 5th Block,Desserts,2000.0
+Restaurant_329,No,2.6,374,Marathahalli,Mughlai,500.0
+Restaurant_330,Yes,3.1,292,Bannerghatta Road,Biryani,2000.0
+Restaurant_331,Yes,2.5,836,Whitefield,South Indian,500.0
+Restaurant_332,No,4.4,1957,HSR,Continental,1000.0
+Restaurant_333,Yes,4.1,1004,Bannerghatta Road,Fast Food,200.0
+Restaurant_334,No,2.7,552,HSR,Cafe,1500.0
+Restaurant_335,No,4.2,317,Jayanagar,South Indian,500.0
+Restaurant_336,Yes,4.5,1525,Bannerghatta Road,Desserts,200.0
+Restaurant_337,Yes,4.1,1851,HSR,Chinese,800.0
+Restaurant_338,No,3.2,380,Whitefield,Chinese,300.0
+Restaurant_339,No,2.5,1646,BTM,South Indian,800.0
+Restaurant_341,No,2.6,503,Indiranagar,Cafe,2000.0
+Restaurant_342,Yes,3.9,230,Whitefield,North Indian,2000.0
+Restaurant_343,No,4.6,1107,Marathahalli,North Indian,400.0
+Restaurant_344,Yes,3.3,129,BTM,Desserts,400.0
+Restaurant_345,Yes,3.4,1766,Jayanagar,Biryani,400.0
+Restaurant_346,Yes,3.1,837,Whitefield,Beverages,800.0
+Restaurant_347,No,3.5,1168,Indiranagar,Beverages,500.0
+Restaurant_348,No,3.5,890,Indiranagar,Fast Food,300.0
+Restaurant_349,Yes,4.8,1880,Indiranagar,Cafe,400.0
+Restaurant_350,No,2.8,27,JP Nagar,Cafe,1000.0
+Restaurant_351,Yes,3.7,65,Whitefield,Chinese,1000.0
+Restaurant_352,Yes,4.4,1186,Koramangala 5th Block,Mughlai,400.0
+Restaurant_353,No,2.6,1252,Jayanagar,Desserts,2000.0
+Restaurant_354,No,3.8,260,Indiranagar,North Indian,400.0
+Restaurant_355,Yes,3.1,1472,HSR,Desserts,300.0
+Restaurant_356,No,4.5,1447,Whitefield,Beverages,400.0
+Restaurant_357,No,3.8,459,JP Nagar,Beverages,300.0
+Restaurant_358,Yes,3.2,1975,Whitefield,South Indian,1000.0
+Restaurant_360,No,2.8,300,JP Nagar,Cafe,800.0
+Restaurant_361,Yes,3.2,918,Jayanagar,Continental,1500.0
+Restaurant_362,Yes,4.1,1326,Whitefield,Desserts,800.0
+Restaurant_363,No,3.0,286,Koramangala 5th Block,Beverages,1000.0
+Restaurant_365,Yes,4.7,1033,JP Nagar,Chinese,800.0
+Restaurant_366,No,3.9,1730,JP Nagar,North Indian,300.0
+Restaurant_367,No,4.1,629,Jayanagar,Fast Food,800.0
+Restaurant_368,Yes,4.7,269,Electronic City,Mughlai,800.0
+Restaurant_369,Yes,3.4,591,Whitefield,Fast Food,300.0
+Restaurant_370,No,2.6,1993,Electronic City,South Indian,500.0
+Restaurant_371,No,4.3,1628,Marathahalli,Continental,800.0
+Restaurant_373,No,3.1,843,Jayanagar,Chinese,1500.0
+Restaurant_374,Yes,3.2,861,BTM,Mughlai,1000.0
+Restaurant_375,No,4.2,1384,Jayanagar,Fast Food,500.0
+Restaurant_376,No,3.9,1280,Electronic City,Cafe,300.0
+Restaurant_377,Yes,4.1,132,Koramangala 5th Block,South Indian,500.0
+Restaurant_378,No,4.3,1299,Jayanagar,Cafe,200.0
+Restaurant_379,Yes,2.6,1799,Jayanagar,Chinese,200.0
+Restaurant_380,No,3.9,1706,Koramangala 5th Block,Mughlai,800.0
+Restaurant_382,No,3.9,512,Indiranagar,Mughlai,400.0
+Restaurant_383,Yes,4.4,312,BTM,Beverages,1500.0
+Restaurant_384,Yes,2.7,575,HSR,Biryani,1000.0
+Restaurant_385,No,3.7,885,BTM,South Indian,500.0
+Restaurant_386,Yes,3.5,1307,Jayanagar,Cafe,200.0
+Restaurant_387,Yes,4.5,1144,Indiranagar,Chinese,800.0
+Restaurant_388,Yes,4.2,1130,Whitefield,Continental,2000.0
+Restaurant_389,Yes,3.9,1956,Jayanagar,Beverages,2000.0
+Restaurant_390,Yes,2.7,686,Electronic City,Biryani,1000.0
+Restaurant_391,Yes,2.8,1227,Indiranagar,Continental,500.0
+Restaurant_392,No,3.6,164,Koramangala 5th Block,North Indian,800.0
+Restaurant_393,No,3.8,304,Indiranagar,Beverages,800.0
+Restaurant_394,Yes,4.3,1520,Koramangala 5th Block,Chinese,200.0
+Restaurant_395,No,4.1,1655,Marathahalli,Fast Food,200.0
+Restaurant_396,No,4.5,1579,HSR,South Indian,800.0
+Restaurant_397,No,3.7,1847,Bannerghatta Road,Mughlai,300.0
+Restaurant_398,No,4.9,155,Indiranagar,Chinese,800.0
+Restaurant_399,Yes,2.6,1390,JP Nagar,South Indian,1000.0
+Restaurant_400,No,4.7,1742,Electronic City,Continental,800.0
+Restaurant_401,No,3.9,1925,Jayanagar,Mughlai,400.0
+Restaurant_402,Yes,2.6,619,Electronic City,Desserts,1500.0
+Restaurant_403,Yes,3.2,1274,BTM,Cafe,400.0
+Restaurant_404,No,4.8,956,Bannerghatta Road,North Indian,400.0
+Restaurant_405,No,3.6,1939,BTM,Beverages,300.0
+Restaurant_406,No,4.5,1905,Marathahalli,Chinese,300.0
+Restaurant_407,No,4.5,333,Bannerghatta Road,North Indian,2000.0
+Restaurant_409,No,3.1,968,BTM,South Indian,400.0
+Restaurant_410,Yes,2.7,510,Koramangala 5th Block,South Indian,300.0
+Restaurant_411,No,3.3,1316,BTM,Chinese,200.0
+Restaurant_412,No,2.7,1043,Electronic City,Biryani,800.0
+Restaurant_413,Yes,3.8,281,Koramangala 5th Block,Biryani,1000.0
+Restaurant_414,Yes,3.3,796,Electronic City,Desserts,1500.0
+Restaurant_415,Yes,4.6,1024,Marathahalli,Cafe,500.0
+Restaurant_416,Yes,3.1,118,Jayanagar,Mughlai,800.0
+Restaurant_418,No,2.6,197,Koramangala 5th Block,North Indian,400.0
+Restaurant_419,No,3.8,484,Marathahalli,Biryani,1500.0
+Restaurant_420,No,4.4,1780,JP Nagar,Desserts,500.0
+Restaurant_421,No,3.3,1082,Marathahalli,Desserts,400.0
+Restaurant_422,No,3.5,836,BTM,Chinese,200.0
+Restaurant_423,Yes,4.0,1184,BTM,Fast Food,500.0
+Restaurant_424,No,4.9,1008,Whitefield,Continental,1500.0
+Restaurant_425,Yes,3.5,690,Marathahalli,Mughlai,2000.0
+Restaurant_426,Yes,4.3,1229,HSR,Cafe,800.0
+Restaurant_427,No,2.8,1035,Jayanagar,Beverages,400.0
+Restaurant_428,Yes,3.2,489,BTM,Chinese,800.0
+Restaurant_429,No,3.1,275,Whitefield,Mughlai,1500.0
+Restaurant_432,Yes,3.5,1239,Marathahalli,Fast Food,500.0
+Restaurant_433,No,4.1,1274,Bannerghatta Road,Fast Food,400.0
+Restaurant_434,No,4.8,1834,Whitefield,North Indian,800.0
+Restaurant_435,No,2.7,125,BTM,Desserts,200.0
+Restaurant_436,No,4.6,216,HSR,Mughlai,400.0
+Restaurant_437,No,3.6,1329,Marathahalli,Chinese,500.0
+Restaurant_438,Yes,2.9,1820,HSR,South Indian,300.0
+Restaurant_439,Yes,3.1,1208,Marathahalli,Chinese,2000.0
+Restaurant_440,Yes,4.1,1062,BTM,North Indian,1000.0
+Restaurant_441,No,3.7,1246,Jayanagar,Cafe,200.0
+Restaurant_442,Yes,2.9,1207,Indiranagar,Desserts,2000.0
+Restaurant_443,No,2.9,494,Jayanagar,South Indian,300.0
+Restaurant_444,No,3.3,426,Marathahalli,Biryani,400.0
+Restaurant_446,Yes,4.6,918,Indiranagar,Fast Food,1500.0
+Restaurant_447,No,4.9,1451,Indiranagar,Beverages,800.0
+Restaurant_448,Yes,3.5,1317,HSR,Biryani,2000.0
+Restaurant_449,No,4.2,1875,Whitefield,Chinese,500.0
+Restaurant_450,No,4.5,150,HSR,Chinese,800.0
+Restaurant_451,No,3.0,383,HSR,Fast Food,200.0
+Restaurant_452,No,3.9,1661,Electronic City,North Indian,800.0
+Restaurant_453,No,2.7,1836,Jayanagar,Mughlai,500.0
+Restaurant_454,Yes,3.1,307,Jayanagar,Biryani,1000.0
+Restaurant_455,Yes,4.6,1359,JP Nagar,Biryani,400.0
+Restaurant_456,No,4.6,1969,Marathahalli,Continental,1500.0
+Restaurant_457,No,4.1,745,Electronic City,Cafe,2000.0
+Restaurant_458,Yes,2.7,891,JP Nagar,Desserts,400.0
+Restaurant_459,Yes,3.4,374,BTM,Cafe,800.0
+Restaurant_460,No,4.2,1031,Marathahalli,Mughlai,300.0
+Restaurant_461,Yes,2.7,1364,Marathahalli,Chinese,400.0
+Restaurant_462,No,4.1,128,Bannerghatta Road,Chinese,1000.0
+Restaurant_464,No,3.7,1799,Koramangala 5th Block,Continental,1500.0
+Restaurant_465,Yes,3.9,668,Koramangala 5th Block,Chinese,500.0
+Restaurant_466,No,3.3,1375,HSR,Mughlai,1000.0
+Restaurant_467,Yes,3.9,1381,BTM,Fast Food,800.0
+Restaurant_468,Yes,4.6,516,Indiranagar,Desserts,1000.0
+Restaurant_469,No,4.1,1518,Indiranagar,Mughlai,400.0
+Restaurant_470,Yes,4.6,85,Bannerghatta Road,Desserts,1500.0
+Restaurant_471,No,4.5,1198,Bannerghatta Road,Mughlai,500.0
+Restaurant_472,Yes,4.1,1825,Bannerghatta Road,Chinese,800.0
+Restaurant_473,No,4.3,1216,Electronic City,Fast Food,200.0
+Restaurant_474,Yes,4.6,310,Whitefield,Biryani,2000.0
+Restaurant_475,No,2.6,1142,Koramangala 5th Block,Cafe,500.0
+Restaurant_476,Yes,2.8,1241,Electronic City,Beverages,200.0
+Restaurant_477,No,4.3,426,Jayanagar,Fast Food,1000.0
+Restaurant_478,Yes,4.5,1993,Indiranagar,Biryani,300.0
+Restaurant_479,No,3.7,1437,Marathahalli,North Indian,500.0
+Restaurant_481,No,4.0,1168,JP Nagar,North Indian,200.0
+Restaurant_482,Yes,4.0,1561,Jayanagar,Biryani,400.0
+Restaurant_483,No,4.0,1671,Koramangala 5th Block,Fast Food,400.0
+Restaurant_484,Yes,4.4,302,Electronic City,Mughlai,300.0
+Restaurant_485,No,4.3,743,BTM,Beverages,2000.0
+Restaurant_486,Yes,4.8,1904,Marathahalli,Chinese,500.0
+Restaurant_487,No,4.0,587,Koramangala 5th Block,Mughlai,500.0
+Restaurant_488,Yes,2.7,986,Whitefield,Mughlai,500.0
+Restaurant_489,Yes,4.2,1863,Bannerghatta Road,Fast Food,2000.0
+Restaurant_491,Yes,4.2,813,Marathahalli,Biryani,1500.0
+Restaurant_493,No,3.3,800,Bannerghatta Road,Mughlai,300.0
+Restaurant_494,Yes,2.6,1024,Koramangala 5th Block,Cafe,500.0
+Restaurant_495,Yes,4.8,1170,JP Nagar,Mughlai,1000.0
+Restaurant_496,Yes,4.3,1310,Indiranagar,Biryani,400.0
+Restaurant_497,No,4.3,1999,Indiranagar,Desserts,200.0
