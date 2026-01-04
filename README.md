@@ -1,2 +1,2 @@
-# Zomato-Market-Analysis-India
-"End-to-end data analysis of Indian restaurants using Python and SQL."
+# Zomato-Market-Analysis
+"End-to-end data analysis of restaurants using Python and SQL."
